@@ -1,0 +1,146 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/flatbed-towing-lahore",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/flatbed-towing-lahore/",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-shifting-service-lahore",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-shifting-service-lahore/",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-carrier-lahore",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-carrier-lahore/",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-lifter-lahore",
+      "destination": "/tow-truck-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-lifter-lahore/",
+      "destination": "/tow-truck-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/affordable-car-recovery-lahore",
+      "destination": "/tow-truck-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/affordable-car-recovery-lahore/",
+      "destination": "/tow-truck-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/breakdown-recovery-lahore",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/breakdown-recovery-lahore/",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/accident-car-recovery-lahore",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/accident-car-recovery-lahore/",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-crane-service-lahore",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/car-crane-service-lahore/",
+      "destination": "/car-recovery-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/24-hour-car-recovery-lahore",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/24-hour-car-recovery-lahore/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/car-recovery-near-me",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/car-recovery-near-me/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/car-recovery-:area-lahore",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/car-recovery-:area-lahore/",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/towing-service-:area-lahore",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/towing-service-:area-lahore/",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/areas",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/areas/",
+      "destination": "/lahore-areas/",
+      "permanent": true
+    }
+  ]
+}
