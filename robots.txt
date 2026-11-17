@@ -1,3 +1,22 @@
+# ✅ Robots.txt — Tow Brothers Car Recovery Lahore
+# Updated: 2026-11-17
+
 User-agent: *
 Allow: /
+
+# Block admin-only paths from indexing
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all major search engine bots explicitly
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# ✅ FIXED: Sitemap URL consistent with canonical (non-www)
 Sitemap: https://towbrother.com/sitemap.xml
